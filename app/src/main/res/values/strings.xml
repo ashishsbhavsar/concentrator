@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Concentrator</string>
+    <string name="accessibility_service_label">Concentrator Scroll Tracker</string>
+    <string name="accessibility_service_description">Tracks scrolled Reels on Instagram and Shorts on YouTube to help you monitor screen time and stop doomscrolling. Your data is stored 100% locally on your device.</string>
+
+    <!-- Overlay Service -->
+    <string name="overlay_notification_title">Scroll Tracker Active</string>
+    <string name="overlay_notification_text">Floating counter is monitoring Reels and Shorts</string>
+
+    <!-- Limit Alerts -->
+    <string name="limit_alert_channel_name">Scroll Limit Warnings</string>
+    <string name="limit_alert_channel_description">Notifications when you reach your daily scroll limit</string>
+    <string name="reel_limit_reached_title">Reels Limit Reached!</string>
+    <string name="reel_limit_reached_body">You\'ve scrolled %1$d Instagram Reels today. Time for a mindful break 🧘</string>
+    <string name="short_limit_reached_title">Shorts Limit Reached!</string>
+    <string name="short_limit_reached_body">You\'ve scrolled %1$d YouTube Shorts today. Time to rest your eyes ✨</string>
+    <string name="total_limit_reached_title">Total Daily Scroll Limit Hit!</string>
+    <string name="total_limit_reached_body">You\'ve scrolled %1$d total short videos today.</string>
+</resources>
